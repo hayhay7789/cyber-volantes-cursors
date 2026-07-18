@@ -15,6 +15,8 @@ The progress and wait cursors (animated loading cursors) have had their animatio
 ![Cyberpunk Loading Animation Preview](./src/assets/loading-animation.gif)
 ![Cyberpunk Loading Animation Preview](./src/assets/progress-animation.gif)
 
+![Cursor List](./src/assets/cursor-list.png)
+
 ## Install
 
 Available on pling: https://www.opendesktop.org/p/2365992/
