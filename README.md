@@ -17,7 +17,7 @@ The progress and wait cursors (animated loading cursors) have had their animatio
 
 The following are the manual installation instructions from the original project, which should work just the same for this fork.
 
-Available here on pling:
+Available here for download: https://www.opendesktop.org/p/2365992/
 
 
 1. Install dependencies:
