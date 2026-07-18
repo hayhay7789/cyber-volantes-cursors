@@ -6,6 +6,8 @@ These are fully animated at 24fps and available in 64px, 48px, 32px, or 24px siz
 
 Only available for Dark theme.
 
+To make your system look even more Cyberpunk, the [Daemon 2.0](https://github.com/MathisP75/daemon-kde-mk2) Plasma theme and colour scheme looks amazing with these cursors.
+
 #### Differences from source
 
 The progress and wait cursors (animated loading cursors) have had their animations replaced with the Cyberpunk 2077 loading animation (pictured).
@@ -15,10 +17,13 @@ The progress and wait cursors (animated loading cursors) have had their animatio
 
 ## Install
 
-The following are the manual installation instructions from the original project, which should work just the same for this fork.
+Available on pling: https://www.opendesktop.org/p/2365992/
 
-Available here for download: https://www.opendesktop.org/p/2365992/
+You can also download the latest release, and copy the extracted folder to your ~/.icons/ folder.
 
+The compiled X11 cursors (progress and wait) are also included in the source code main folder for anyone who wishes to use them individually.
+
+The following are the manual installation instructions from the original project, which should work just the same for this fork as I made sure to keep everything consistent. However, I did not use this method to source the original content so I cannot say for sure whether the original script functions as intended.
 
 1. Install dependencies:
 
@@ -49,10 +54,6 @@ Ubuntu:
     ```
 
 3. Choose a theme in the Settings or in the Tweaks tool.
-
-If the build is not working for you, and you don't want to use the Pling version, the compiled X11 cursors (progress and wait) are included in the main folder. Therefore, you can easily copy them to your existing cursor folder (for me, found under ~/.icons/volantes_cursors/cursors) to perform a drag-and-drop manual installation.
-
-To make your system look even more Cyberpunk, the [Daemon 2.0](https://github.com/MathisP75/daemon-kde-mk2) Plasma theme and colour scheme looks amazing with these cursors.
 
 #### License & Attributions
 
