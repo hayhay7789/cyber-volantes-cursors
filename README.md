@@ -7,7 +7,9 @@ Only available for Dark theme.
 ### Differences from source
 
 The progress and wait cursors (animated loading cursors) have had their animations replaced with the Cyberpunk 2077 loading animation (pictured).
-![Cyberpunk Loading Animation Preview](./assets/loading-animation.gif)
+
+![Cyberpunk Loading Animation Preview](./src/assets/loading-animation.gif)
+![Cyberpunk Loading Animation Preview](./src/assets/progress-animation.gif)
 
 ## License & Attributions
 
