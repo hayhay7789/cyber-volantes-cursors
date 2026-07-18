@@ -26,6 +26,8 @@ https://www.pling.com/p/1356095/
 
 3. Choose a theme in the Settings or in the Tweaks tool.
 
+
 Daemon 2.0 Plasma theme:
 https://www.opendesktop.org/p/2213923/
-
+Daemon 2.0 Colour theme:
+www.opendesktop.org/p/2213953/
