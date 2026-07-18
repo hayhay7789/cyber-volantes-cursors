@@ -1,6 +1,8 @@
 # Cyber-Volantes Cursors (Dark)
 
-A combination of Volantes cursors with the Cyberpunk 2077 loading animation featured in the Daemon 2.0 Plasma theme.
+A combination of Volantes cursors with the Cyberpunk 2077 loading animation featured in the Daemon 2.0 Plasma theme. 
+
+These are fully animated at 24fps and available in 64px, 48px, 32px, or 24px sizes.
 
 Only available for Dark theme.
 
@@ -13,7 +15,9 @@ The progress and wait cursors (animated loading cursors) have had their animatio
 
 ## Install
 
-The following are the manual installation instructions from the original project, which equally apply here. A version for opendesktop will be uploaded soon.
+The following are the manual installation instructions from the original project, which should work just the same for this fork.
+
+Available here on pling:
 
 
 1. Install dependencies:
@@ -45,6 +49,8 @@ Ubuntu:
     ```
 
 3. Choose a theme in the Settings or in the Tweaks tool.
+
+If the build is not working for you, and you don't want to use the Pling version, the compiled X11 cursors (progress and wait) are included in the main folder. Therefore, you can easily copy them to your existing cursor folder (for me, found under ~/.icons/volantes_cursors/cursors) to perform a drag-and-drop manual installation.
 
 To make your system look even more Cyberpunk, the [Daemon 2.0](https://github.com/MathisP75/daemon-kde-mk2) Plasma theme and colour scheme looks amazing with these cursors.
 
