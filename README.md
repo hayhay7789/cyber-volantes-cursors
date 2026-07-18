@@ -1,10 +1,7 @@
 # Cyber-Volantes Cursors (Dark)
+This is the Volantes dark cursor pack, modified with the Cyberpunk 2077 "spinning disk" loading animation. The source file for the animation was sourced from the Daemon 2.0 Plasma theme. These are fully animated at 24fps and available in 64px, 48px, 32px, or 24px sizes.
 
-A combination of Volantes cursors with the Cyberpunk 2077 loading animation featured in the Daemon 2.0 Plasma theme. 
-
-These are fully animated at 24fps and available in 64px, 48px, 32px, or 24px sizes.
-
-Only available for Dark theme.
+It is only available with dark theme cursors at the moment. I may make this for the light theme cursors as well if anyone shows interest.
 
 To make your system look even more Cyberpunk, the [Daemon 2.0](https://github.com/MathisP75/daemon-kde-mk2) Plasma theme and colour scheme looks amazing with these cursors.
 
