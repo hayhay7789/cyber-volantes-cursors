@@ -1,6 +1,8 @@
-# Cyber-Volantes Cursors
+# Cyber-Volantes Cursors (Dark)
 
-A combination of Volantes cursors with the Cyberpunk 2077 loading animation featured in the Daemon 2.0 Plasma theme
+A combination of Volantes cursors with the Cyberpunk 2077 loading animation featured in the Daemon 2.0 Plasma theme.
+
+Currently only available for Dark.
 
 ### Install build version
 
